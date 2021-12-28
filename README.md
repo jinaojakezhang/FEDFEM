@@ -3,7 +3,7 @@
 ![fig1](https://user-images.githubusercontent.com/93865598/147568282-8c4247c0-cab2-4636-8dda-227df9d0f58c.PNG)
 This is the source repository for the paper:
 
-Zhang, J., & Chauhan, S. (2019). Fast explicit dynamics finite element algorithm for transient heat transfer. International Journal of Thermal Sciences, 139, 160-175. doi:10.1016/j.ijthermalsci.2019.01.030.
+Zhang, J., & Chauhan, S. (2019). Fast explicit dynamics finite element algorithm for transient heat transfer. International Journal of Thermal Sciences, 139, 160-175. [doi:10.1016/j.ijthermalsci.2019.01.030](https://www.sciencedirect.com/science/article/abs/pii/S1290072918317186).
 
 Please cite the above paper if you use this code for your research.
 
