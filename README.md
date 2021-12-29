@@ -25,6 +25,9 @@ Please cite the above paper if you use this code for your research.
 1.	Open T.vtk. (such as using ParaView)
 
 ![fig3](https://user-images.githubusercontent.com/93865598/147568315-1d2c3f4c-4dd7-4a6e-b3fe-4169c26555c7.PNG)
+# Boundary condition (BC):
+1.	Node index: HFlux, Convc, Radia, FixT.
+2.	Element index: BodyHFlux.
 # Notes:
 1.	Node and Element index can start at 0, 1, or any but must be consistent in a file.
 2.	T_Iso.txt, T_Ortho.txt, T_Aniso.txt, T_Convc.txt, T_Radia.txt, T_BodyHFlux.txt, node and element index start at 0.
