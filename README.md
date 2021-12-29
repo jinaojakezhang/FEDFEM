@@ -15,7 +15,7 @@ Please cite the above paper if you use this code for your research.
 •	OpenMP
 # How to build:
 1.	Download the source repository.
-2.	Visual Studio 2017->Create New Project (Empty Project)->Add Existing Item->FEDFEM.cpp.
+2.	Visual Studio 2017->Create New Project (Empty Project)->Project->Add Existing Item->FEDFEM.cpp.
 3.	Project->Properties->C/C++->Language->OpenMP Support->Yes (/openmp).
 4.	Build Solution (Release/x64).
 # How to use:
