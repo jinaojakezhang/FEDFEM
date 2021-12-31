@@ -1,5 +1,6 @@
 # Fast explicit dynamics finite element algorithm for transient heat transfer (MIT License)
-
+[![download](https://img.shields.io/github/downloads/jinaojakezhang/FEDFEM/total.svg)](https://github.com/jinaojakezhang/FEDFEM/releases)
+[![LICENSE](https://img.shields.io/github/license/jinaojakezhang/FEDFEM.svg)](https://github.com/jinaojakezhang/FEDFEM/blob/master/LICENSE)
 ![fig1](https://user-images.githubusercontent.com/93865598/147568282-8c4247c0-cab2-4636-8dda-227df9d0f58c.PNG)
 This is the source repository for the paper:
 
@@ -7,6 +8,7 @@ Zhang, J., & Chauhan, S. (2019). Fast explicit dynamics finite element algorithm
 
 Please cite the above paper if you use this code for your research.
 
+If this code is helpful in your projects, please help to :star: this repo or recommend it to your friends. Thanks:blush:
 # Environment:
 •	Windows 10
 
@@ -32,3 +34,5 @@ Please cite the above paper if you use this code for your research.
 1.	Node and Element index can start at 0, 1, or any but must be consistent in a file.
 2.	T_Iso.txt, T_Ortho.txt, T_Aniso.txt, T_Convc.txt, T_Radia.txt, T_BodyHFlux.txt, node and element index start at 0.
 3.	T_Iso_n1.txt, T_Ortho_n1.txt, T_Aniso_n1.txt, T_Convc_n1.txt, T_Radia_n1.txt, T_BodyHFlux_n1.txt, node and element index start at 1.
+# Feedback:
+Please send an email to jinao.zhang@hotmail.com. Thanks for your valuable feedback and suggestions.
