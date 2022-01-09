@@ -1,6 +1,6 @@
 # Fast explicit dynamics finite element algorithm for transient heat transfer (MIT License)
-[![download](https://img.shields.io/github/downloads/jinaojakezhang/FEDFEM/total.svg)](https://github.com/jinaojakezhang/FEDFEM/releases)
-[![LICENSE](https://img.shields.io/github/license/jinaojakezhang/FEDFEM.svg)](https://github.com/jinaojakezhang/FEDFEM/blob/master/LICENSE)
+![GitHub](https://img.shields.io/github/license/jinaojakezhang/fedfem)
+![GitHub top language](https://img.shields.io/github/languages/top/jinaojakezhang/FEDFEM)
 <p align="center"><img src="https://user-images.githubusercontent.com/93865598/147568282-8c4247c0-cab2-4636-8dda-227df9d0f58c.PNG"></p>
 This is the source repository for the paper:
 
